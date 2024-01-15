@@ -25,3 +25,5 @@ abdef*/
 - For loop iterates through both arrays to check if i is less than the length of each array
 
 */
+
+// Alternative solution
